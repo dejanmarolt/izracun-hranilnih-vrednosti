@@ -1,0 +1,2107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<undefined0><![CDATA[ zmes za ingverjevo testo]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3761]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Zimska salama]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3281]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Zelje, rdeče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3560]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Zelje, kislo]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3559]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Zelje, belo]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3515]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ želirni sladkor]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3764]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Zelenjava z ribo, Sardinada]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3366]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Zelenjava z ribo, Maestral]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3365]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Zelenjava z ribo, Argo Picnic]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3369]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Zelenjava z ribo, Antipasta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3371]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ ZELENA, LIST, SUH]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3609]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ ZELENA, CELA]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3608]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ žar kotanyi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3707]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ začimba]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3715]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ WÜRZOMAT 5200]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3681]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ WURTZOMAT 5200]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3591]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ worchester pikantna omaka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3721]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ WILDROHWURST]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3587]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ voda]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3654]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Višnje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3475]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Vanilijevi rogljički]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3641]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Vanilijev sladkor]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3623]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ uk aroma]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3655]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Tuna v rastlinskem olju]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3373]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Tuna]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3384]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Tritikala moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3472]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ temno pivo bernard]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3746]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Teletina, rebra]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3260]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Telečji vampi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3264]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Telečji jezik]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3263]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Telečje srce]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3262]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ telečje meso II.kat ( pleče, vrat)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3682]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ telečja jetra]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3261]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ TATARSKI BIFTEK 36-5131]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3680]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ TATARSKI BIFTEK]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3592]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ tartufata Zigante]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3720]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ TARTUF]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3601]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ sweet butter milk]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3719]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ svinjski vrat s.k.]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3691]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ svinjski vrat b.k.]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3692]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ SVINJSKI MOŽGANI]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3614]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ svinjske noge]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3703]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ svinjska ribica LS]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3742]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ svinjska ribica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3690]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ SVINJSKA KRI]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3613]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Svinjina, stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3243]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Svinjina, rebra]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3245]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Svinjina, podkožna slanina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3249]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Svinjina, pleče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3244]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Svinjina, ledja]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3242]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Šunka v ovitku]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3279]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Suhi jabolčni krhlji]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3504]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Suhe slive]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3505]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Suhe marelice]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3506]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Stročji fižol, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3555]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Stročji fižol]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3554]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ STABICON 15]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3679]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Srnjak, stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3328]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Srnjak, pleče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3326]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Srnjak, hrbet]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3327]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ spitz tomater]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3724]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Špinača, kuhana]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3523]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Špinača]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3522]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Šparglji, kuhani]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3538]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Šparglji]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3537]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sončnično olje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3633]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sončnična semena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3401]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Som]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3386]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Solata, kristalka, Noisette]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3545]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Solata, endivija]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3546]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ sol mehčanje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3688]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sol]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3390]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ sol]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3718]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ SOJINO ZRNO]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3595]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Slive]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3485]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sled]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3338]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Slanik, prekajen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3362]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sladkovodni rak]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3360]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sladkor]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3621]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Skuša, prekajena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3364]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Skuša]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3342]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Skuša]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3381]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Školjke]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3387]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Školjka, dagnja]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3354]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Škampi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3388]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sirup Malina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3620]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ sir provolone]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3725]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ sir gauda]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3730]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Šipek]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3494]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sipa]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3352]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sezamovo semena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3400]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ senator combi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3700]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ semena koprca]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3732]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ščuka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3350]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Šarenka, gojena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3345]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sardine v olju, pločevinka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3370]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sardine]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3382]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Sardela]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3335]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ ŠAMPINJON]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3603]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ salo]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3706]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rženi mešani kruh GLYX]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3452]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rženi kruh, s kefirjem]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3451]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rženi kruh SVIT]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3453]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rženi kruh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3450]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rženi kosmiči, polnozrnati]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3440]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rženi kosmiči]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3441]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ržena moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3439]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rž, zrno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3438]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ RUSTICO 75506]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3678]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rum]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3632]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ RSC 7 PLUS OA]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3677]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rozine]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3503]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rožice]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3645]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ rosao]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3757]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Robidnice]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3479]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ rjavi sladkor]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3744]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Riževa moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3444]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rižev škrob]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3445]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Riž, rjav, nepoliran]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3443]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Riž, bel, poliran]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3442]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ribja pašteta, Argeta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3376]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ribja pašteta z zelenjavo, Weekend]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3377]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Riba z zelenjavo, Weekend]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3367]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Riba z zelenjavo, Izola Brand]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3368]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Repa, kisla]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3516]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Regrat]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3532]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rdeča pesa, kuhana]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3548]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rdeča pesa]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3547]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ RCS7 PLUS OA]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3594]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Razsoljeni svinjski hrbet]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3288]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Raža]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3343]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rarog]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3359]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ ranch hisna omaka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3748]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Rakovica, v pločevinki]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3375]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Radič, zelen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3509]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Radič, rdeč]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3508]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Raca, povprečno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3309]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ puranje stegno s kožo]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3712]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Puranje meso, prsa brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3305]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Puranje meso, bedro brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3306]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenični zdrob (tip 400)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3432]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenični mešani kruh, Z manj soli]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3461]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenični mešani kruh, S semeni]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3463]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenični mešani kruh Krjavelj]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3465]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenični mešani kruh Jelenov]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3464]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenična moka (tip 850)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3435]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenična moka (tip 500)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3436]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenična moka (tip 400)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3437]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenična moka (tip 1100)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3434]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenična moka (polnozrnata)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3433]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pšenica, zrno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3431]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Proso, zrno, Sonček]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3429]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Proso, zrno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3428]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prosena kaša]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3430]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ PRIMOFRESCH SPARE RIBS]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3676]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ presad marmelada]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3723]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prepelica, povprečno, brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3332]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prepečenec, Več žit]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3460]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prepečenec, Beli]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3459]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prekmurska šunka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3285]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prekajena postrv]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3361]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pravi kostanj, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3490]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prašičji jezik]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3248]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prašičje srce]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3247]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ prašičje Glave s.k.]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3683]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ prašičja koža]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3684]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Prašičja jetra]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3246]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ praš.meso I. kat. (stegno očiščeno)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3697]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ praš. meso II.kat. ( pleče, potrebušina)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3653]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ potrebušina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3698]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Potočna postrv, gojena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3347]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ posušene hruške]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3766]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ posušene gobe]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3767]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ posušena jabolka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3765]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Por, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3519]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Por]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3518]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ poper črni]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3687]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ poper beli mleti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3672]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pomaranča]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3497]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Polž]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3356]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Polkopunje meso, prsa brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3295]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Polkopunje meso, bedro brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3296]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Polbeli kruh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3447]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Podust]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3349]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ pleče prašičje brez kosti in masti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3696]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pistacija]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3398]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piškotne drobtine]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3630]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančje srce]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3304]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančje prsi v ovitku]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3313]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančje meso, prsa s kožo, brez kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3298]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančje meso, prsa brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3297]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančje meso, krilo s kožo, brez kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3301]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančje meso, bedro s kožo, brez kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3300]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančje meso, bedro brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3299]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančja posebna klobasa]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3310]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančja jetrna pašteta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3312]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančja jetra]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3303]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Piščančja hrenovka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3311]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pirina moka, polnozrnata]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3426]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pirina moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3427]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pirina kaša]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3424]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pirin zdrob]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3425]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pirin mešani kruh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3457]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pirin kruh, z jabolčnimi krhlji]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3458]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pira, zrno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3423]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pinjoli]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3392]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ pimet mleti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3671]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ PETERŠILJ, SUH]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3607]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ PETERŠILJ, LIST]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3605]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ PETERŠILJ, KOREN]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3606]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Petelinje meso, prsa brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3291]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Petelinje meso, bedro brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3292]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ pehtran suhi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3733]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ pečka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3709]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pecilni prašek]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3624]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Pariška salama]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3278]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ PARADIŽNIKOV PIRE]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3597]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Paradižnik]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3552]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Paprika, zelena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3565]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Paprika, rumena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3541]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Paprika sladka začimba]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3585]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ paprika sladka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3670]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Paprika pekoča začimba]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3586]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ paprika ostra]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3669]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ paprika granulat rdeča/zelena 7190]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3675]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Papalina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3337]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ panirani piscancji fritesi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3729]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ovseni mešani kruh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3454]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ovseni kosmiči]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3422]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ovčetina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3269]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ otroška omaka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3751]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ostriga]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3355]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Oslič]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3341]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Orehi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3489]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Oreh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3391]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ omaka s črnim tartufom]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3752]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Olje, olivno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3635]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ olivno olje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3717]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ohrovt, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3512]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ohrovt]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3511]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ odojek]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3705]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ ocvrti krompir]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3739]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ocvrta čebula]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3640]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Navadni tun]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3334]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Navadna peščena kozica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3357]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Namizne oljke, Štorta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3568]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Namizne oljke, Istrska belica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3567]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ muškatni oreh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3668]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Motovilec]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3510]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Mortadela]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3276]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Morski pes]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3380]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Morski list, prekajen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3363]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Morski list]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3340]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ monteverdi mozzarela]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3727]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Mleko 3,25 %]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3638]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Mesni sir]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3275]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Mesni narezek]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3290]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ MESNATA SLANINA]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3612]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ med]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3762]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Mečarica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3383]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ maslo Ljubljanske mlekarne]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3714]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Maslo]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3636]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ marmelada UWE marelica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3637]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Marmelada Mešano sadja Presad]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3617]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Margarina Unifet]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3619]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Marelice]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3495]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Mandelj]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3394]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Mandarina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3498]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Maline]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3477]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Makovo semena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3399]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ majaron]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3667]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Losos v olju]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3374]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Losos]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3351]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ LISIČKA]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3602]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Linške oči]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3643]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Limonina lupina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3629]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ limonin sok]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3736]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Limona]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3500]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Limeta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3501]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Lešniki, Istrska dolgoplodna leska]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3488]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Lešnik]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3393]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ LEČA]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3600]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ laneno olje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3649]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ lanena moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3651]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kvas]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3639]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kunčje meso, hrbet in stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3272]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kunčja hrenovka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3274]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ kumina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3666]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kumare]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3536]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kulen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3283]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krvavice]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3287]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krušno pecivo, Štručka s sirom]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3456]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krušno pecivo, črna žemlja]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3469]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krušno pecivo, boboli]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3468]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krušno pecivo, bela kajzerica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3467]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krušno pecivo, bela bageta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3466]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ kruhove drobtine]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3708]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krompir, kifeljčar, pečen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3544]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krompir, kifeljčar, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3543]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krompir, kifeljčar]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3542]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kraški pršut]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3284]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Krap, gojen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3346]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kranjska klobasa]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3280]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ krača prednji del]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3704]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ kožna emulzija]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3694]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kozje meso, povprečno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3271]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Košuta, stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3322]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Košuta, pleče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3320]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Košuta, hrbet]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3321]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ kosti mesnate telečje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3711]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ kosti mesnate praš.]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3702]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kostanj]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3396]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koruzni zdrob (instant polenta)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3419]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koruzni zdrob (bela polenta)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3418]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koruzni zdrob]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3417]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koruzni kruh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3455]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koruzna moka, Poltrdinka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3421]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koruzna moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3420]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koruza, zrno, Poltrdinka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3416]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koruza, zrno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3415]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ koriander]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3665]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Korenje, rumeno, kuhano]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3562]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Korenje, rumeno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3561]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Korenje, kuhano]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3525]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Korenje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3524]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kopunje meso, prsa brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3293]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kopunje meso, bedro brez kože in kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3294]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ konopljino olje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3648]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ konopljini proteini]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3650]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Konopljina moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3634]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Konjsko meso, povprečno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3270]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koleraba, rumena, kuhana]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3521]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koleraba, rumena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3520]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Koleraba, nadzemna]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3535]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kokosovo meso, posušeno, nesladkano]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3631]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kokosovi rogljički]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3646]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kokosova moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3628]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kokosov oreh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3397]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kokošja maščoba]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3302]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Knor svinjska juha]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3685]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ klinčki]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3664]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Klen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3348]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Klapavica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3353]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kivi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3496]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kisla smetana Pomurske mlekarne 20]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3627]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ kis za vlaganje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3759]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ kis jabolčni]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3686]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ ketchup felix]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3731]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ KEČAP]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3596]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kaviar]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3378]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ karamelizirana čebula]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3745]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kaki, Vanilija]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3491]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Kaki]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3492]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ kajenski poper]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3735]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jušni rezanci, ajdovi, kuhani]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3584]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jušni rezanci, ajdovi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3583]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ jogurt 2%]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3722]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jezerska zlatovčica, gojena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3344]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jetrna pašteta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3286]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ješprenj]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3413]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelenje tele, stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3325]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelenje tele, pleče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3323]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelenje tele, hrbet]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3324]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelenjad, stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3316]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelenjad, pleče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3314]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelenjad, hrbet]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3315]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelen, stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3319]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelen, pleče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3317]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jelen, hrbet]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3318]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jegulja]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3339]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jegulja]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3385]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ jedilna čokolada]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3763]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ječmenova moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3414]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ječmen, zrno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3412]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jastog]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3358]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jajčevec]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3553]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jajce, celo, surovo, sveže]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3622]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jagode]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3473]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jagnetina, stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3267]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jagnetina, podkožni loj]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3268]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jagnetina, pleče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3266]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jagnetina, ledja]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3265]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jabolke, Šampanjska Reneta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3484]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jabolke, Carjevič]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3483]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Jabolke]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3482]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ ISOKONTRIKT 5590]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3589]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ iso contrit 5590]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3674]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Inčun]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3336]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Huzarski Krapki]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3642]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ HUHNERPASTETE]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3588]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Hruške, Tepka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3481]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Hruške]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3480]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Hrenovka, klasična]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3273]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ HREN]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3604]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ hrbtna slanina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3710]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Hobotnica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3389]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ hamburška slanina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3699]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ grški jogurt 10%]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3737]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ grška omaka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3749]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Grozdje, belo]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3486]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Grenivka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3499]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Grah, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3551]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Grah]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3550]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ goveji kuhani vampi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3695]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Goveji jezik]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3258]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Goveje srce]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3257]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ goveje obreznine]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3758]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ goveje meso II kat. ( vrat, podplečje)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3652]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ goveje meso]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3741]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ goveja rebra]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3693]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ GOVEJA KRI]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3615]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Goveja jetra]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3256]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Govedina, zunanje stegno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3253]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Govedina, podplečje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3254]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Govedina, podkožno maščobno tkivo]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3259]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Govedina, pljučna pečenka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3255]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Govedina, pleče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3252]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Govedina, ledja]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3250]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Govedina, križ]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3251]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Govedina v ovitku]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3289]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Gosja maščoba]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3308]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Gos, povprečno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3307]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ gorčična moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3663]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ gea majoneza]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3713]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ FRANFURTER KOMBI]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3590]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Francoska štruca]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3446]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Francoska klobasa]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3277]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Fižol, tetovec, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3531]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Fižol, tetovec]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3530]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Fižol, sivček, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3529]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Fižol, sivček]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3528]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Fižol, češnjevec, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3527]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Fižol, češnjevec]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3526]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ figova omaka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3750]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ figova marmelada]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3738]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Fige]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3493]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Fazan, povprečno, s kožo, brez kosti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3331]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ famny]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3728]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ extrawurst tiroler 126]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3673]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Zmartel]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3578]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Žižula]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3579]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Štorta]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3577]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, mešanica sort]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3569]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Mata]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3576]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Leccino]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3575]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Komuna]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3574]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Istrska belica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3573]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Črnica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3570]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Buga]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3572]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ekstra deviško oljčno olje, Briška črnica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3571]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ EDAMEC]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3701]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Drozdje, rdeče]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3487]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ DROBNJAK]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3599]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Divji zajec, povprečno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3330]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Divji prašič, meso, povprečno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3329]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ dimljena slanina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3740]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ dekstroza]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3662]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ DATELJ]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3611]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Cvetača, kuhana]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3540]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Cvetača]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3539]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Črni kruh, s krompirjevimi kosmiči]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3449]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Črni kruh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3448]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Čokoladni rogljički]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3644]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Čokoladni obliv Bonn]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3618]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Čokolada v prahu]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3626]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ citronska kislina]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3760]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Cipelj]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3333]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Cimet mleti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3625]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Chedar Somerset]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3726]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Češnje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3474]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ česen v prahu]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3743]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Česen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3549]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Čemaž]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3533]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Čebula, rjava]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3517]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Čebula, Ptujska rdeča]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3566]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Čebula, mlada]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3534]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ ČEBULA, BELA]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3598]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ čebula v prahu]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3734]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Bučno olje]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3580]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Bučnice, golice]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3581]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Bučnice, belice]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3582]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Bučna semena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3402]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Bučke]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3558]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ BRUDAUERWURST KRAKAUER]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3593]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Brstični ohrovt, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3514]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Brstični ohrovt]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3513]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Brokoli, kuhan]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3564]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Brokoli]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3563]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Brodet v pločevinki]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3372]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Breskve]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3476]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Brancin pečen]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3379]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Borovnice]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3478]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Blitva, kuhana]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3557]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Blitva]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3556]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ bioknoblauchgranulat]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3753]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ bio-intensado neu]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3754]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ bio-cevapi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3755]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ bio-brätvurst]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3756]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Belokranjska pogača]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3462]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ bbq omaka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3747]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ bazilika]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3661]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ BANANA]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3610]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ AVOKADO]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3507]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ aroma us 150]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3660]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ aroma tk]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3689]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Aroma Ruma]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3616]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ aroma mix čevapko]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3659]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ aroma hrenovka (telečja)]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3658]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ aroma gel ks]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3657]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ aroma fibrex cs 40]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3656]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Arašid]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3395]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Angleški piškoti]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3647]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ananas]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3502]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Aljaževa salama]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3282]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajdova moka, Trdinova]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3410]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajdova moka, tatarska]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3411]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajdova moka, Dolenjska siva]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3409]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajdova moka]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3408]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajdova kaša, tatarska]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3407]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajdova kaša]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3406]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajdov kruh, z orehi]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3471]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajdov kruh]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3470]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajda, zrno, Dolenjska siva]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3405]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajda, zrno, Čebelica]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3404]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ Ajda, zrno]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3403]]]></shortcode>
+	</node>
+	<node>
+		<undefined0><![CDATA[ aceto balsamico modena]]></undefined0>
+		<shortcode><![CDATA[[nutrition-label id=3716]]]></shortcode>
+	</node>
+</data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<ui><![CDATA[ME99]]></ui>
+		<posttitle><![CDATA[Svinjina, stegno2]]></posttitle>
+		<servingsize><![CDATA[]]></servingsize>
+		<servings><![CDATA[]]></servings>
+		<calories><![CDATA[]]></calories>
+		<totalfat><![CDATA[3.7]]></totalfat>
+		<saturatedfat><![CDATA[1.361]]></saturatedfat>
+		<transfat><![CDATA[]]></transfat>
+		<cholesterol><![CDATA[]]></cholesterol>
+		<sodium><![CDATA[0]]></sodium>
+		<carbohydrates><![CDATA[0]]></carbohydrates>
+		<fiber><![CDATA[]]></fiber>
+		<sugars><![CDATA[0]]></sugars>
+		<protein><![CDATA[20.7]]></protein>
+	</node>
+</data>

@@ -1,0 +1,2 @@
+﻿UI,Post Title,Serving Size,Servings,Calories,Total Fat,Saturated Fat,Trans. Fat,Cholesterol,Sodium,Carbohydrates,Fiber,Sugars,Protein
+ME99,"Svinjina, stegno2",,,,3.7,1.361,,,0,0,,0,20.7
