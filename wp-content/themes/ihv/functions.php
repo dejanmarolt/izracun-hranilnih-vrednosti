@@ -107,8 +107,8 @@ add_action( 'widgets_init', 'ihv_widgets_init' );
 function ihv_scripts() {
 
 	/* Register Styles */
-	wp_register_style( 'ihv-foundation-style', get_template_directory_uri() . '/foundation.css' );
-	wp_register_style( 'ihv-style', get_template_directory_uri() ); 
+	wp_register_style( 'ihv-foundation-style', get_template_directory_uri() . '/css/foundation/foundation.css' );
+	wp_register_style( 'ihv-style', get_template_directory_uri() . '/css/style.css' ); 
 
 	/* Enqueue  Styles */
 	wp_enqueue_style( 'ihv-foundation-style' );
