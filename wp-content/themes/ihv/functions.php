@@ -127,7 +127,7 @@ function ihv_scripts() {
 	wp_enqueue_script( 'ihv-skip-link-focus-fix' );
 	wp_enqueue_script( 'ihv-jquery' );
 	wp_enqueue_script( 'ihv-foundation' );
-	wp_enqueue_scripts( 'ihv-script' );
+	wp_enqueue_script( 'ihv-script' );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
 		wp_enqueue_script( 'comment-reply' );
